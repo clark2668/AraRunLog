@@ -1,1 +1,1 @@
-run_num username run_quality user_comment analysis_flag
+run_num username run_quality user_comment
