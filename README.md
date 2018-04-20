@@ -1,6 +1,11 @@
 # AraRunLog
 Log of ara calibration runs.
 
+## Organization
+- The repository is organized with a `source` and `logs` directory
+- `source` contains all of the `.xls` files which are edited to produce the log files
+- `logs` contains the tab-delimtied `.txt` files which are meant to be loaded into the SQL system
+
 ## Recommended Usage
 - The easiest way to use this is to alter the `.xls` files for every station; this allows for easy cell manipulation
 - Then you should export the file to the `.txt` format with tab separated values for import into the SQL system
